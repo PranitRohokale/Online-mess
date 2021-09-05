@@ -1,1 +1,30 @@
-# Online-mess
+
+# Online Mess
+
+- A full-stack web application for finding the nearest available messes in particular cities.
+- 3 diffrent Web interfaces for user,mess administrators and administrator by giving several privileges.
+- Features :User could see the details of mess , mess admin can change mess menus on daily basis.
+
+
+## 🌐 What is Online mess?
+
+In cities, people who are dependent on messes for their daily meals generally struggle to find a place where they can get hygienic food. Even if one finds such a mess which provides quality of food, they will have to pay for a month's charges to get it at an affordable price.
+
+### 📚 Technology Stack
+* Frontend : HTML,CSS,Bootstrap.
+* Backend : Php.
+* Database : MySql.
+
+### 🔗 Detail Project Documentation
+* [Report](https://docs.google.com/document/d/12v7FRgudIDFt9vCmVq4Ay8C7hR3zTd1xsU_lwS1azaQ/edit?usp=sharing)
+## 📱 Screenshots
+ 
+
+
+
+  
+## 👨‍💻 Created By
+
+- [@Pranit Rohokale](https://github.com/PranitRohokale)
+
+  
